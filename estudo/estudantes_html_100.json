@@ -1,0 +1,804 @@
+{
+"Sheet1":[
+ {
+  "ID": 1,
+  "Nome": "Estudante_355",
+  "Idade": 18,
+  "Série": "1º Ano",
+  "Nota_Matemática": 59,
+  "Nota_Português": 59
+ },
+ {
+  "ID": 2,
+  "Nome": "Estudante_496",
+  "Idade": 18,
+  "Série": "2º Ano",
+  "Nota_Matemática": 94,
+  "Nota_Português": 80
+ },
+ {
+  "ID": 3,
+  "Nome": "Estudante_116",
+  "Idade": 16,
+  "Série": "1º Ano",
+  "Nota_Matemática": 89,
+  "Nota_Português": 77
+ },
+ {
+  "ID": 4,
+  "Nome": "Estudante_627",
+  "Idade": 14,
+  "Série": "2º Ano",
+  "Nota_Matemática": 74,
+  "Nota_Português": 68
+ },
+ {
+  "ID": 5,
+  "Nome": "Estudante_103",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 82,
+  "Nota_Português": 74
+ },
+ {
+  "ID": 6,
+  "Nome": "Estudante_875",
+  "Idade": 17,
+  "Série": "2º Ano",
+  "Nota_Matemática": 51,
+  "Nota_Português": 53
+ },
+ {
+  "ID": 7,
+  "Nome": "Estudante_234",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 70,
+  "Nota_Português": 58
+ },
+ {
+  "ID": 8,
+  "Nome": "Estudante_991",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 71,
+  "Nota_Português": 71
+ },
+ {
+  "ID": 9,
+  "Nome": "Estudante_945",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 75,
+  "Nota_Português": 71
+ },
+ {
+  "ID": 10,
+  "Nome": "Estudante_946",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 59,
+  "Nota_Português": 73
+ },
+ {
+  "ID": 11,
+  "Nome": "Estudante_774",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 77,
+  "Nota_Português": 50
+ },
+ {
+  "ID": 12,
+  "Nome": "Estudante_361",
+  "Idade": 14,
+  "Série": "3º Ano",
+  "Nota_Matemática": 87,
+  "Nota_Português": 70
+ },
+ {
+  "ID": 13,
+  "Nome": "Estudante_977",
+  "Idade": 16,
+  "Série": "1º Ano",
+  "Nota_Matemática": 59,
+  "Nota_Português": 68
+ },
+ {
+  "ID": 14,
+  "Nome": "Estudante_585",
+  "Idade": 18,
+  "Série": "2º Ano",
+  "Nota_Matemática": 57,
+  "Nota_Português": 61
+ },
+ {
+  "ID": 15,
+  "Nome": "Estudante_80",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 57,
+  "Nota_Português": 67
+ },
+ {
+  "ID": 16,
+  "Nome": "Estudante_221",
+  "Idade": 15,
+  "Série": "3º Ano",
+  "Nota_Matemática": 83,
+  "Nota_Português": 84
+ },
+ {
+  "ID": 17,
+  "Nome": "Estudante_963",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 66,
+  "Nota_Português": 68
+ },
+ {
+  "ID": 18,
+  "Nome": "Estudante_737",
+  "Idade": 14,
+  "Série": "3º Ano",
+  "Nota_Matemática": 65,
+  "Nota_Português": 92
+ },
+ {
+  "ID": 19,
+  "Nome": "Estudante_939",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 78,
+  "Nota_Português": 66
+ },
+ {
+  "ID": 20,
+  "Nome": "Estudante_26",
+  "Idade": 18,
+  "Série": "1º Ano",
+  "Nota_Matemática": 95,
+  "Nota_Português": 86
+ },
+ {
+  "ID": 21,
+  "Nome": "Estudante_695",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 100,
+  "Nota_Português": 53
+ },
+ {
+  "ID": 22,
+  "Nome": "Estudante_135",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 80,
+  "Nota_Português": 72
+ },
+ {
+  "ID": 23,
+  "Nome": "Estudante_507",
+  "Idade": 14,
+  "Série": "3º Ano",
+  "Nota_Matemática": 71,
+  "Nota_Português": 62
+ },
+ {
+  "ID": 24,
+  "Nome": "Estudante_295",
+  "Idade": 15,
+  "Série": "1º Ano",
+  "Nota_Matemática": 98,
+  "Nota_Português": 71
+ },
+ {
+  "ID": 25,
+  "Nome": "Estudante_295",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 82,
+  "Nota_Português": 95
+ },
+ {
+  "ID": 26,
+  "Nome": "Estudante_729",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 56,
+  "Nota_Português": 98
+ },
+ {
+  "ID": 27,
+  "Nome": "Estudante_188",
+  "Idade": 15,
+  "Série": "2º Ano",
+  "Nota_Matemática": 68,
+  "Nota_Português": 96
+ },
+ {
+  "ID": 28,
+  "Nome": "Estudante_746",
+  "Idade": 18,
+  "Série": "2º Ano",
+  "Nota_Matemática": 89,
+  "Nota_Português": 70
+ },
+ {
+  "ID": 29,
+  "Nome": "Estudante_315",
+  "Idade": 15,
+  "Série": "2º Ano",
+  "Nota_Matemática": 66,
+  "Nota_Português": 57
+ },
+ {
+  "ID": 30,
+  "Nome": "Estudante_920",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 58,
+  "Nota_Português": 75
+ },
+ {
+  "ID": 31,
+  "Nome": "Estudante_928",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 67,
+  "Nota_Português": 83
+ },
+ {
+  "ID": 32,
+  "Nome": "Estudante_340",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 58,
+  "Nota_Português": 75
+ },
+ {
+  "ID": 33,
+  "Nome": "Estudante_544",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 61,
+  "Nota_Português": 76
+ },
+ {
+  "ID": 34,
+  "Nome": "Estudante_628",
+  "Idade": 15,
+  "Série": "9º Ano",
+  "Nota_Matemática": 59,
+  "Nota_Português": 88
+ },
+ {
+  "ID": 35,
+  "Nome": "Estudante_930",
+  "Idade": 18,
+  "Série": "9º Ano",
+  "Nota_Matemática": 71,
+  "Nota_Português": 66
+ },
+ {
+  "ID": 36,
+  "Nome": "Estudante_38",
+  "Idade": 17,
+  "Série": "3º Ano",
+  "Nota_Matemática": 65,
+  "Nota_Português": 50
+ },
+ {
+  "ID": 37,
+  "Nome": "Estudante_505",
+  "Idade": 14,
+  "Série": "2º Ano",
+  "Nota_Matemática": 67,
+  "Nota_Português": 92
+ },
+ {
+  "ID": 38,
+  "Nome": "Estudante_393",
+  "Idade": 14,
+  "Série": "3º Ano",
+  "Nota_Matemática": 92,
+  "Nota_Português": 64
+ },
+ {
+  "ID": 39,
+  "Nome": "Estudante_889",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 68,
+  "Nota_Português": 83
+ },
+ {
+  "ID": 40,
+  "Nome": "Estudante_568",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 88,
+  "Nota_Português": 93
+ },
+ {
+  "ID": 41,
+  "Nome": "Estudante_423",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 57,
+  "Nota_Português": 58
+ },
+ {
+  "ID": 42,
+  "Nome": "Estudante_24",
+  "Idade": 18,
+  "Série": "1º Ano",
+  "Nota_Matemática": 73,
+  "Nota_Português": 67
+ },
+ {
+  "ID": 43,
+  "Nome": "Estudante_1000",
+  "Idade": 16,
+  "Série": "1º Ano",
+  "Nota_Matemática": 84,
+  "Nota_Português": 65
+ },
+ {
+  "ID": 44,
+  "Nome": "Estudante_401",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 66,
+  "Nota_Português": 79
+ },
+ {
+  "ID": 45,
+  "Nome": "Estudante_31",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 84,
+  "Nota_Português": 91
+ },
+ {
+  "ID": 46,
+  "Nome": "Estudante_135",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 90,
+  "Nota_Português": 52
+ },
+ {
+  "ID": 47,
+  "Nome": "Estudante_705",
+  "Idade": 17,
+  "Série": "2º Ano",
+  "Nota_Matemática": 94,
+  "Nota_Português": 68
+ },
+ {
+  "ID": 48,
+  "Nome": "Estudante_988",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 66,
+  "Nota_Português": 89
+ },
+ {
+  "ID": 49,
+  "Nome": "Estudante_917",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 98,
+  "Nota_Português": 69
+ },
+ {
+  "ID": 50,
+  "Nome": "Estudante_367",
+  "Idade": 14,
+  "Série": "2º Ano",
+  "Nota_Matemática": 62,
+  "Nota_Português": 55
+ },
+ {
+  "ID": 51,
+  "Nome": "Estudante_804",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 87,
+  "Nota_Português": 89
+ },
+ {
+  "ID": 52,
+  "Nome": "Estudante_569",
+  "Idade": 15,
+  "Série": "3º Ano",
+  "Nota_Matemática": 84,
+  "Nota_Português": 69
+ },
+ {
+  "ID": 53,
+  "Nome": "Estudante_917",
+  "Idade": 16,
+  "Série": "1º Ano",
+  "Nota_Matemática": 66,
+  "Nota_Português": 78
+ },
+ {
+  "ID": 54,
+  "Nome": "Estudante_891",
+  "Idade": 15,
+  "Série": "3º Ano",
+  "Nota_Matemática": 75,
+  "Nota_Português": 61
+ },
+ {
+  "ID": 55,
+  "Nome": "Estudante_38",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 84,
+  "Nota_Português": 96
+ },
+ {
+  "ID": 56,
+  "Nome": "Estudante_913",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 62,
+  "Nota_Português": 50
+ },
+ {
+  "ID": 57,
+  "Nome": "Estudante_125",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 71,
+  "Nota_Português": 59
+ },
+ {
+  "ID": 58,
+  "Nome": "Estudante_394",
+  "Idade": 16,
+  "Série": "2º Ano",
+  "Nota_Matemática": 72,
+  "Nota_Português": 97
+ },
+ {
+  "ID": 59,
+  "Nome": "Estudante_6",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 78,
+  "Nota_Português": 92
+ },
+ {
+  "ID": 60,
+  "Nome": "Estudante_684",
+  "Idade": 14,
+  "Série": "2º Ano",
+  "Nota_Matemática": 96,
+  "Nota_Português": 51
+ },
+ {
+  "ID": 61,
+  "Nome": "Estudante_215",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 86,
+  "Nota_Português": 74
+ },
+ {
+  "ID": 62,
+  "Nome": "Estudante_587",
+  "Idade": 18,
+  "Série": "2º Ano",
+  "Nota_Matemática": 62,
+  "Nota_Português": 71
+ },
+ {
+  "ID": 63,
+  "Nome": "Estudante_481",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 86,
+  "Nota_Português": 56
+ },
+ {
+  "ID": 64,
+  "Nome": "Estudante_108",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 58,
+  "Nota_Português": 51
+ },
+ {
+  "ID": 65,
+  "Nome": "Estudante_664",
+  "Idade": 15,
+  "Série": "9º Ano",
+  "Nota_Matemática": 72,
+  "Nota_Português": 100
+ },
+ {
+  "ID": 66,
+  "Nome": "Estudante_338",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 62,
+  "Nota_Português": 50
+ },
+ {
+  "ID": 67,
+  "Nome": "Estudante_738",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 93,
+  "Nota_Português": 74
+ },
+ {
+  "ID": 68,
+  "Nome": "Estudante_528",
+  "Idade": 17,
+  "Série": "2º Ano",
+  "Nota_Matemática": 51,
+  "Nota_Português": 89
+ },
+ {
+  "ID": 69,
+  "Nome": "Estudante_348",
+  "Idade": 18,
+  "Série": "9º Ano",
+  "Nota_Matemática": 75,
+  "Nota_Português": 80
+ },
+ {
+  "ID": 70,
+  "Nome": "Estudante_183",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 56,
+  "Nota_Português": 63
+ },
+ {
+  "ID": 71,
+  "Nome": "Estudante_965",
+  "Idade": 18,
+  "Série": "1º Ano",
+  "Nota_Matemática": 96,
+  "Nota_Português": 89
+ },
+ {
+  "ID": 72,
+  "Nome": "Estudante_96",
+  "Idade": 17,
+  "Série": "3º Ano",
+  "Nota_Matemática": 56,
+  "Nota_Português": 63
+ },
+ {
+  "ID": 73,
+  "Nome": "Estudante_912",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 96,
+  "Nota_Português": 80
+ },
+ {
+  "ID": 74,
+  "Nome": "Estudante_762",
+  "Idade": 15,
+  "Série": "2º Ano",
+  "Nota_Matemática": 64,
+  "Nota_Português": 54
+ },
+ {
+  "ID": 75,
+  "Nome": "Estudante_460",
+  "Idade": 15,
+  "Série": "2º Ano",
+  "Nota_Matemática": 79,
+  "Nota_Português": 65
+ },
+ {
+  "ID": 76,
+  "Nome": "Estudante_467",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 77,
+  "Nota_Português": 95
+ },
+ {
+  "ID": 77,
+  "Nome": "Estudante_10",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 56,
+  "Nota_Português": 91
+ },
+ {
+  "ID": 78,
+  "Nome": "Estudante_464",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 91,
+  "Nota_Português": 75
+ },
+ {
+  "ID": 79,
+  "Nome": "Estudante_84",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 65,
+  "Nota_Português": 64
+ },
+ {
+  "ID": 80,
+  "Nome": "Estudante_238",
+  "Idade": 17,
+  "Série": "2º Ano",
+  "Nota_Matemática": 64,
+  "Nota_Português": 76
+ },
+ {
+  "ID": 81,
+  "Nome": "Estudante_754",
+  "Idade": 18,
+  "Série": "3º Ano",
+  "Nota_Matemática": 63,
+  "Nota_Português": 72
+ },
+ {
+  "ID": 82,
+  "Nome": "Estudante_40",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 74,
+  "Nota_Português": 67
+ },
+ {
+  "ID": 83,
+  "Nome": "Estudante_188",
+  "Idade": 16,
+  "Série": "3º Ano",
+  "Nota_Matemática": 99,
+  "Nota_Português": 86
+ },
+ {
+  "ID": 84,
+  "Nome": "Estudante_64",
+  "Idade": 17,
+  "Série": "9º Ano",
+  "Nota_Matemática": 87,
+  "Nota_Português": 88
+ },
+ {
+  "ID": 85,
+  "Nome": "Estudante_258",
+  "Idade": 17,
+  "Série": "3º Ano",
+  "Nota_Matemática": 54,
+  "Nota_Português": 80
+ },
+ {
+  "ID": 86,
+  "Nome": "Estudante_62",
+  "Idade": 16,
+  "Série": "2º Ano",
+  "Nota_Matemática": 69,
+  "Nota_Português": 70
+ },
+ {
+  "ID": 87,
+  "Nome": "Estudante_481",
+  "Idade": 15,
+  "Série": "3º Ano",
+  "Nota_Matemática": 70,
+  "Nota_Português": 65
+ },
+ {
+  "ID": 88,
+  "Nome": "Estudante_19",
+  "Idade": 18,
+  "Série": "9º Ano",
+  "Nota_Matemática": 57,
+  "Nota_Português": 84
+ },
+ {
+  "ID": 89,
+  "Nome": "Estudante_433",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 72,
+  "Nota_Português": 59
+ },
+ {
+  "ID": 90,
+  "Nome": "Estudante_681",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 92,
+  "Nota_Português": 93
+ },
+ {
+  "ID": 91,
+  "Nome": "Estudante_883",
+  "Idade": 14,
+  "Série": "1º Ano",
+  "Nota_Matemática": 83,
+  "Nota_Português": 90
+ },
+ {
+  "ID": 92,
+  "Nome": "Estudante_199",
+  "Idade": 14,
+  "Série": "9º Ano",
+  "Nota_Matemática": 100,
+  "Nota_Português": 57
+ },
+ {
+  "ID": 93,
+  "Nome": "Estudante_443",
+  "Idade": 18,
+  "Série": "2º Ano",
+  "Nota_Matemática": 89,
+  "Nota_Português": 78
+ },
+ {
+  "ID": 94,
+  "Nome": "Estudante_647",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 76,
+  "Nota_Português": 72
+ },
+ {
+  "ID": 95,
+  "Nome": "Estudante_19",
+  "Idade": 16,
+  "Série": "2º Ano",
+  "Nota_Matemática": 68,
+  "Nota_Português": 58
+ },
+ {
+  "ID": 96,
+  "Nome": "Estudante_684",
+  "Idade": 17,
+  "Série": "1º Ano",
+  "Nota_Matemática": 78,
+  "Nota_Português": 61
+ },
+ {
+  "ID": 97,
+  "Nome": "Estudante_979",
+  "Idade": 16,
+  "Série": "9º Ano",
+  "Nota_Matemática": 69,
+  "Nota_Português": 54
+ },
+ {
+  "ID": 98,
+  "Nome": "Estudante_723",
+  "Idade": 16,
+  "Série": "1º Ano",
+  "Nota_Matemática": 95,
+  "Nota_Português": 61
+ },
+ {
+  "ID": 99,
+  "Nome": "Estudante_231",
+  "Idade": 15,
+  "Série": "2º Ano",
+  "Nota_Matemática": 99,
+  "Nota_Português": 95
+ },
+ {
+  "ID": 100,
+  "Nome": "Estudante_628",
+  "Idade": 15,
+  "Série": "1º Ano",
+  "Nota_Matemática": 86,
+  "Nota_Português": 66
+ }
+]
+}
